@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Deployment
 
-The project is deployed at [Insert URL] using Vercel.
+The project is deployed at https://product-preview-card-component-indol-one.vercel.app/ using Vercel.
 
 ### Credits
 
